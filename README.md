@@ -1,0 +1,1 @@
+# LocalBazaar-Cloud-Architecture-Specification-Document
